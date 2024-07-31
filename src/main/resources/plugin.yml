@@ -1,0 +1,9 @@
+name: StatsAnnouncer
+version: 1.0
+main: org.mrtexasfreedom.statsannouncer.StatsAnnouncer
+api-version: 1.20
+description: Announces random player statistics
+commands:
+  randomstat:
+    description: Displays a random player statistic
+    usage: /randomstat
